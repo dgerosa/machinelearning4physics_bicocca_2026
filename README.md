@@ -77,8 +77,8 @@ You do not need to submit assignments after every lecture. Please share them all
 
 ## Past editions
 
-- Current: [dgerosa.github.io/astrostatistics_bicocca](https://dgerosa.github.io/machinelearning4physics_bicocca)
-- 2024: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
+- Current: [dgerosa.github.io/machinelearning4physics](https://dgerosa.github.io/machinelearning4physics)
+- 2024: [github.com/dgerosa/machinelearning4physics_bicocca_2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
 
 ## Careful...
 
