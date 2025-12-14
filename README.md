@@ -60,9 +60,9 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 **Coding**. Each class will be about 1h of lecture and about 3h of coding. You will need to run python, see [here for instructions](pythonsetup.md).
 
-**News+emails**: [https://elearning.unipv.it/course/view.php?id=7387](elearning.unipv.it/course/view.php?id=7387)
+**News+emails**: [https://elearning.unipv.it/course/section.php?id=102930](elearning.unipv.it/course/section.php?id=102930)
 
-**Recordings**: [https://elearning.unimib.it/enrol/index.php?id=57492](elearning.unimib.it/enrol/index.php?id=57492)
+**Recordings**: [https://elearning.unimib.it/course/view.php?id=60763](elearning.unimib.it/course/view.php?id=60763)
 
 
 
@@ -78,6 +78,7 @@ You do not need to submit assignments after every lecture. Please share them all
 ## Past editions
 
 - Current: [dgerosa.github.io/machinelearning4physics](https://dgerosa.github.io/machinelearning4physics)
+- 2025: [github.com/dgerosa/machinelearning4physics_bicocca_2025](https://github.com/dgerosa/machinelearning4physics_bicocca_2025)
 - 2024: [github.com/dgerosa/machinelearning4physics_bicocca_2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
 
 ## Careful...
