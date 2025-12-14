@@ -1,8 +1,8 @@
 # Machine Learning for Physics and Astronomy
 **[Davide Gerosa](https://davidegerosa.com/)** (module lead) - davide.gerosa@unimib.it  
-**Giulia Fumagalli** (teaching assistant) - g.fumagalli47@campus.unimib.it 
+**UPDATE** (teaching assistant) - update@campus.unimib.it 
 
-University of Milano-Bicocca, 2025. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
+University of Milano-Bicocca, 2026. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
 
 ## Aims
 
@@ -70,7 +70,7 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will not be oral exams. The outcome will be provided as a passed / not passed statement (no numbers).
 
-To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2025_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `gfumagalli`), and send us an email when you are done. See [here for detailed instructions](examsubmission.md).
+To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2026_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `gfumagalli`), and send us an email when you are done. See [here for detailed instructions](examsubmission.md).
 
 You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready. Exams will be cleared according to the nominal exam dates available on the student service website. 
 
