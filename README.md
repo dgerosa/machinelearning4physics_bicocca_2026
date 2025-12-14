@@ -44,17 +44,30 @@ Classes will take place on the Bicocca campus, on Wednesdays from 8.30am to 12.3
 Our schedule is as follows. [Here is a public calendar](https://calendar.google.com/calendar/embed?src=5d8d31ed2056780a879a376955b230fe78245fd8990bff77a728da5de8e0ff0f%40group.calendar.google.com&ctz=Europe%2FRome) with the dates below, which you can import into your calendar software.
 
 
-1. **Mar 5**. Lab U9-910
-2. **Mar 12**. Lab U9-910
-3. **Mar 19**. Lab U9-910
-- Mar 26, Davide is away for research
-4. **Apr 2**. Lab U9-910
-5. **Apr 9**. Lab U9-910
-6. **Apr 16**. Lab U9-910
-7. **Apr 23**. Lab U9-910
-8. **Apr 30**. Lab U5-531
-9. **May 7**. Lab U5-531
-- **May 14**. Tutoring before the exams. Lab U5-531
+<!-- CALENDAR:START -->
+1. **2026, Mar 09, 08:30am - 10:30am**. Room U7-15.
+2. **2026, Mar 12, 10:30am - 12:30pm**. Room U2-05.
+3. **2026, Mar 16, 08:30am - 10:30am**. Room U7-15.
+4. **2026, Mar 19, 10:30am - 12:30pm**. Room U2-05.
+5. **2026, Mar 23, 08:30am - 10:30am**. Room U7-15.
+6. **2026, Mar 26, 10:30am - 12:30pm**. Room U2-05.
+7. **2026, Mar 30, 08:30am - 10:30am**. Room U7-15.
+8. **2026, Apr 09, 10:30am - 12:30pm**. Room U2-05.
+9. **2026, Apr 13, 08:30am - 10:30am**. Room U7-15.
+10. **2026, Apr 16, 10:30am - 12:30pm**. Room U2-05.
+11. **2026, Apr 20, 08:30am - 10:30am**. Room U7-15.
+12. **2026, Apr 23, 10:30am - 12:30pm**. Room U2-05.
+13. **2026, Apr 27, 08:30am - 10:30am**. Room U7-15.
+14. **2026, Apr 30, 10:30am - 12:30pm**. Room U2-05.
+15. **2026, May 04, 08:30am - 10:30am**. Room U7-15.
+16. **2026, May 07, 10:30am - 12:30pm**. Room U2-05.
+17. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
+18. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
+19. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
+20. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
+21. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
+22. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
+<!-- CALENDAR:END -->
 
 ## Setup
 
