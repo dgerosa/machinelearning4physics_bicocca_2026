@@ -61,9 +61,9 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 **Coding**. Each class will be about 1h of lecture and about 3h of coding. You will need to run python, see [here for instructions](pythonsetup.md).
 
-**News+emails**: [https://elearning.unipv.it/course/section.php?id=102930](elearning.unipv.it/course/section.php?id=102930)
+**News+emails**: [elearning.unipv.it/course/section.php?id=102930](https://elearning.unipv.it/course/section.php?id=102930)
 
-**Recordings**: [https://elearning.unimib.it/course/view.php?id=60763](elearning.unimib.it/course/view.php?id=60763)
+**Recordings**: [elearning.unimib.it/course/view.php?id=60763](https://elearning.unimib.it/course/view.php?id=60763)
 
 
 
