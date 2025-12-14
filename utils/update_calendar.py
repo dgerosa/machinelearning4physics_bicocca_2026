@@ -13,7 +13,7 @@ ITALY_TZ = ZoneInfo("Europe/Rome")  # CET/CEST automatic
 readme_path = Path(__file__).resolve().parents[1] / "README.md"
 
 # 🔗 Your ICS link
-ICS_URL = "https://calendar.google.com/calendar/ical/7b3eb78f345682c12c065855a0e49c6b21d2f1db72b244bf752dd534a47c6066%40group.calendar.google.com/public/basic.ics"
+ICS_URL = "https://calendar.google.com/calendar/ical/5d8d31ed2056780a879a376955b230fe78245fd8990bff77a728da5de8e0ff0f%40group.calendar.google.com/public/basic.ics"
 
 # Get date range from command line arguments or use defaults
 if len(sys.argv) == 3:
