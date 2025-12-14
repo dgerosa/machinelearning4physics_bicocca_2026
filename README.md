@@ -45,28 +45,16 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 
 
 <!-- CALENDAR:START -->
-1. **2026, Mar 09, 08:30am - 10:30am**. Room U7-15.
-2. **2026, Mar 12, 10:30am - 12:30pm**. Room U2-05.
-3. **2026, Mar 16, 08:30am - 10:30am**. Room U7-15.
-4. **2026, Mar 19, 10:30am - 12:30pm**. Room U2-05.
-5. **2026, Mar 23, 08:30am - 10:30am**. Room U7-15.
-6. **2026, Mar 26, 10:30am - 12:30pm**. Room U2-05.
-7. **2026, Mar 30, 08:30am - 10:30am**. Room U7-15.
-8. **2026, Apr 09, 10:30am - 12:30pm**. Room U2-05.
-9. **2026, Apr 13, 08:30am - 10:30am**. Room U7-15.
-10. **2026, Apr 16, 10:30am - 12:30pm**. Room U2-05.
-11. **2026, Apr 20, 08:30am - 10:30am**. Room U7-15.
-12. **2026, Apr 23, 10:30am - 12:30pm**. Room U2-05.
-13. **2026, Apr 27, 08:30am - 10:30am**. Room U7-15.
-14. **2026, Apr 30, 10:30am - 12:30pm**. Room U2-05.
-15. **2026, May 04, 08:30am - 10:30am**. Room U7-15.
-16. **2026, May 07, 10:30am - 12:30pm**. Room U2-05.
-17. **2026, May 11, 08:30am - 10:30am**. Room U7-15.
-18. **2026, May 14, 10:30am - 12:30pm**. Room U2-05.
-19. **2026, May 18, 08:30am - 10:30am**. Room U7-15.
-20. **2026, May 21, 10:30am - 12:30pm**. Room U2-05.
-21. **2026, May 25, 08:30am - 10:30am**. Room U7-15.
-22. **2026, May 28, 10:30am - 12:30pm**. Room U2-05 (backup slot in case we skip one).
+1. **2026, Mar 11, 08:30am - 12:30pm**
+2. **2026, Mar 18, 08:30am - 12:30pm**
+3. **2026, Mar 25, 08:30am - 12:30pm**
+4. **2026, Apr 01, 08:30am - 12:30pm**
+5. **2026, Apr 08, 08:30am - 12:30pm**
+6. **2026, Apr 15, 08:30am - 12:30pm**
+7. **2026, Apr 29, 08:30am - 12:30pm**
+8. **2026, May 06, 08:30am - 12:30pm**
+9. **2026, May 13, 08:30am - 12:30pm**
+10. **2026, May 20, 08:30am - 12:30pm**
 <!-- CALENDAR:END -->
 
 ## Setup
