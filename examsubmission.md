@@ -24,7 +24,7 @@ When you're done, send us an email to say your codes are ready to be marked.
 - Oral exams will take place after such exam date, **only for students who have submitted their notebooks by that exam date.** There will be no exceptions.
 - Oral exams will generally take place within one week of the exam date reported on the student portal.
 - All oral exams are to be completed in person, not online. There will be no exceptions.
-- The exact day/time of the oral exams will be determined based on our availability and the number of students registered. In general, we are not able to accommodate individual rescheduling requests, so do not count on it.
+- The exact day/time of the oral exams will be determined based on our availability and the number of students registered. In general, we are not able to accommodate individual rescheduling requests by students, so do not count on it.
 - An exam session can be closed on the student portal only after all students registered for that session have completed their oral exams.
 - The University of Pavia’s examination system requires more than a week between the closure of an exam session and the formal registration of the grades on the student career.
 - Given all of the above, you should allow **up to three weeks** between the official exam date and the date on which your grade will finally appear in your academic record.
