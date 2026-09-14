@@ -9,4 +9,4 @@ These are some instructions to submit your exercises, assuming you don't know ho
 5. On the next page, upload your exercises and then click the green button *Commit changes*.
 6. Then go to *Settings*, then *Collaborators* and then *Add people*
 7. Here add users **dgerosa** (Davide Gerosa) and **fdesanti** (Federico De Santi). Careful: select the right people!
-8. When you're done, send us an email to say your codes are ready to be marked. We will reply and arrange a date for your oral exam. 
+8. When you're done, send us an email to say your codes are ready to be marked. 
