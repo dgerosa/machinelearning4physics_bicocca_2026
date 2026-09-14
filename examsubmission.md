@@ -20,7 +20,7 @@ When you're done, send us an email to say your codes are ready to be marked.
 
 ## Oral exams
 
-1. Assessments follow the official exam dates (“appelli”) listed on the student portal. You must of course sing up there.
+1. Assessment follows the official exam dates (“appelli”) listed on the student portal. You must of course sign up there.
 2. Oral exams will take place after such exam date, **only for students who have submitted their notebooks by that exam date.** There will be no exceptions.
 3. Let me repeat this. Signing up for the exam on the student portal is necessary but not sufficient: you must submit your code by the exam date following the instructions above.
 4. Oral exams will generally take place within one week of the relevant exam date.
