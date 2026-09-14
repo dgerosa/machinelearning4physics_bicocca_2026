@@ -1,6 +1,6 @@
 # Exams
 
-You will be marked on both your submitted exercises, as well as an oral exam.
+You will be marked on both your submitted exercises, as well as an oral exam.  The outcome will be provided as a *passed* / *not passed* statement (no numbers). 
 
 ## Submit your code
 
